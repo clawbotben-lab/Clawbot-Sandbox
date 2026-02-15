@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>DashGo Overlay</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="stylesheet" href="/static/styles.css" />
+  </head>
+  <body>
+    <main>
+      <h1>Spotify Streams vs TikTok Creations</h1>
+      <div class="controls">
+        <label>ISRC <input id="isrc" placeholder="USXXXYY12345" /></label>
+        <label>Days <input id="days" type="number" min="1" max="90" value="14" /></label>
+        <button id="run">Load</button>
+      </div>
+      <p id="status"></p>
+      <canvas id="chart" height="120"></canvas>
+      <pre id="meta"></pre>
+    </main>
+    <script src="/static/app.js"></script>
+  </body>
+</html>

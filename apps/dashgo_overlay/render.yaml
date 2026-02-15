@@ -1,0 +1,17 @@
+services:
+  - type: web
+    name: dashgo-overlay
+    env: python
+    plan: free
+    rootDir: apps/dashgo_overlay
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn app:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: DASHGO_BASE_URL
+        value: https://api.dashgo.com/api/v2
+      - key: DASHGO_AUTH_HEADER
+        value: Authorization
+      - key: DASHGO_AUTH_SCHEME
+        value: Bearer
+      - key: DASHGO_TOKEN
+        sync: false
