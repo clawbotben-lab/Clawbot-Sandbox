@@ -1,0 +1,58 @@
+{
+  "NXGHT": {
+    "fast_food": 1.82,
+    "streaming_video": 1.61,
+    "major_sportswear": 1.74,
+    "luxury_auto": 0.94,
+    "gaming": 2.11
+  },
+  "Vexora": {
+    "fast_food": 1.21,
+    "streaming_video": 1.55,
+    "major_sportswear": 1.68,
+    "luxury_auto": 1.32,
+    "gaming": 1.88
+  },
+  "Cielo Bravo": {
+    "fast_food": 1.93,
+    "streaming_video": 1.48,
+    "major_sportswear": 1.57,
+    "luxury_auto": 0.71,
+    "gaming": 0.89
+  },
+  "Lumen Drift": {
+    "fast_food": 0.72,
+    "streaming_video": 1.31,
+    "major_sportswear": 0.88,
+    "luxury_auto": 1.14,
+    "gaming": 0.76
+  },
+  "Dusty Mae": {
+    "fast_food": 1.64,
+    "streaming_video": 1.41,
+    "major_sportswear": 1.52,
+    "luxury_auto": 0.88,
+    "gaming": 0.71
+  },
+  "Lúa Canela": {
+    "fast_food": 1.88,
+    "streaming_video": 1.62,
+    "major_sportswear": 1.55,
+    "luxury_auto": 0.68,
+    "gaming": 0.94
+  },
+  "Soleil Fade": {
+    "fast_food": 1.41,
+    "streaming_video": 1.67,
+    "major_sportswear": 1.59,
+    "luxury_auto": 1.22,
+    "gaming": 1.33
+  },
+  "Halo Crush": {
+    "fast_food": 1.38,
+    "streaming_video": 1.72,
+    "major_sportswear": 1.61,
+    "luxury_auto": 0.97,
+    "gaming": 1.44
+  }
+}

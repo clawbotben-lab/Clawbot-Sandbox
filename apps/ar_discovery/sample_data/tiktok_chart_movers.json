@@ -1,0 +1,42 @@
+[
+  {
+    "track": "NXGHT - Hollow Chrome",
+    "artist": "NXGHT",
+    "sound_use_count_this_week": 284000,
+    "sound_use_count_last_week": 91000,
+    "wow_growth": 2.12,
+    "genre": "Phonk"
+  },
+  {
+    "track": "Cielo Bravo - Tierra de Noche",
+    "artist": "Cielo Bravo",
+    "sound_use_count_this_week": 143000,
+    "sound_use_count_last_week": 58000,
+    "wow_growth": 1.47,
+    "genre": "Regional Mexican"
+  },
+  {
+    "track": "Vexora - Pulse Reactor",
+    "artist": "Vexora",
+    "sound_use_count_this_week": 217000,
+    "sound_use_count_last_week": 94000,
+    "wow_growth": 1.31,
+    "genre": "EDM"
+  },
+  {
+    "track": "Lúa Canela - Corazón de Polvo",
+    "artist": "Lúa Canela",
+    "sound_use_count_this_week": 98000,
+    "sound_use_count_last_week": 41000,
+    "wow_growth": 1.39,
+    "genre": "Musica Mexicana"
+  },
+  {
+    "track": "Soleil Fade - Glass Hours",
+    "artist": "Soleil Fade",
+    "sound_use_count_this_week": 67000,
+    "sound_use_count_last_week": 38000,
+    "wow_growth": 0.76,
+    "genre": "Pop"
+  }
+]

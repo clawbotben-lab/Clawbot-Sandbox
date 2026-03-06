@@ -1,0 +1,33 @@
+{
+  "genre_12mo_averages": {
+    "EDM":             { "tempo": 128.4, "energy": 0.81, "danceability": 0.74, "valence": 0.56, "acousticness": 0.04, "instrumentalness": 0.31 },
+    "Phonk":           { "tempo": 138.2, "energy": 0.79, "danceability": 0.71, "valence": 0.38, "acousticness": 0.06, "instrumentalness": 0.28 },
+    "Ambient":         { "tempo": 84.1,  "energy": 0.24, "danceability": 0.38, "valence": 0.31, "acousticness": 0.61, "instrumentalness": 0.72 },
+    "Regional Mexican":{ "tempo": 96.3,  "energy": 0.68, "danceability": 0.72, "valence": 0.64, "acousticness": 0.28, "instrumentalness": 0.05 },
+    "Musica Mexicana": { "tempo": 102.1, "energy": 0.65, "danceability": 0.69, "valence": 0.58, "acousticness": 0.31, "instrumentalness": 0.04 },
+    "Country":         { "tempo": 108.7, "energy": 0.62, "danceability": 0.63, "valence": 0.57, "acousticness": 0.34, "instrumentalness": 0.03 },
+    "Pop":             { "tempo": 118.3, "energy": 0.67, "danceability": 0.72, "valence": 0.59, "acousticness": 0.14, "instrumentalness": 0.04 }
+  },
+  "top_20_new_releases_last_4wk": [
+    { "title": "NXGHT - Hollow Chrome",          "genre": "Phonk",           "tempo": 151.0, "energy": 0.85, "danceability": 0.76, "valence": 0.34, "acousticness": 0.03, "instrumentalness": 0.41 },
+    { "title": "NXGHT - Velvet Revolver",         "genre": "Phonk",           "tempo": 148.5, "energy": 0.83, "danceability": 0.74, "valence": 0.31, "acousticness": 0.04, "instrumentalness": 0.38 },
+    { "title": "Vexora - Pulse Reactor",          "genre": "EDM",             "tempo": 138.0, "energy": 0.88, "danceability": 0.79, "valence": 0.52, "acousticness": 0.02, "instrumentalness": 0.44 },
+    { "title": "Vexora - Neon Architecture",      "genre": "EDM",             "tempo": 141.2, "energy": 0.87, "danceability": 0.77, "valence": 0.49, "acousticness": 0.03, "instrumentalness": 0.41 },
+    { "title": "Cielo Bravo - Tierra de Noche",   "genre": "Regional Mexican","tempo": 112.4, "energy": 0.74, "danceability": 0.78, "valence": 0.61, "acousticness": 0.19, "instrumentalness": 0.04 },
+    { "title": "Cielo Bravo - El Corrido del Sol","genre": "Regional Mexican","tempo": 109.7, "energy": 0.72, "danceability": 0.76, "valence": 0.63, "acousticness": 0.22, "instrumentalness": 0.05 },
+    { "title": "Lumen Drift - Glass Epoch",       "genre": "Ambient",         "tempo": 72.3,  "energy": 0.18, "danceability": 0.31, "valence": 0.26, "acousticness": 0.74, "instrumentalness": 0.88 },
+    { "title": "Lúa Canela - Corazón de Polvo",   "genre": "Musica Mexicana", "tempo": 118.3, "energy": 0.71, "danceability": 0.75, "valence": 0.54, "acousticness": 0.22, "instrumentalness": 0.03 },
+    { "title": "Lúa Canela - Noche de Acero",     "genre": "Musica Mexicana", "tempo": 121.0, "energy": 0.73, "danceability": 0.77, "valence": 0.52, "acousticness": 0.19, "instrumentalness": 0.04 },
+    { "title": "Dusty Mae - Barefoot on Asphalt", "genre": "Country",         "tempo": 121.4, "energy": 0.71, "danceability": 0.69, "valence": 0.61, "acousticness": 0.22, "instrumentalness": 0.02 },
+    { "title": "Dusty Mae - Tailgate Gospel",     "genre": "Country",         "tempo": 118.8, "energy": 0.69, "danceability": 0.67, "valence": 0.63, "acousticness": 0.24, "instrumentalness": 0.03 },
+    { "title": "Soleil Fade - Glass Hours",       "genre": "Pop",             "tempo": 104.2, "energy": 0.58, "danceability": 0.64, "valence": 0.44, "acousticness": 0.28, "instrumentalness": 0.02 },
+    { "title": "Soleil Fade - Soft Collapse",     "genre": "Pop",             "tempo": 101.8, "energy": 0.55, "danceability": 0.62, "valence": 0.41, "acousticness": 0.31, "instrumentalness": 0.03 },
+    { "title": "Halo Crush - Fever Map",          "genre": "Pop",             "tempo": 107.3, "energy": 0.61, "danceability": 0.67, "valence": 0.46, "acousticness": 0.26, "instrumentalness": 0.02 },
+    { "title": "Halo Crush - Satellite Drift",    "genre": "Pop",             "tempo": 105.1, "energy": 0.59, "danceability": 0.65, "valence": 0.43, "acousticness": 0.29, "instrumentalness": 0.03 },
+    { "title": "Trace4000 - Memphis Noir",        "genre": "Phonk",           "tempo": 144.8, "energy": 0.81, "danceability": 0.73, "valence": 0.35, "acousticness": 0.05, "instrumentalness": 0.35 },
+    { "title": "Trace4000 - Static Ritual",       "genre": "Phonk",           "tempo": 147.2, "energy": 0.82, "danceability": 0.72, "valence": 0.33, "acousticness": 0.04, "instrumentalness": 0.37 },
+    { "title": "Lumen Drift - Tidal Hum",         "genre": "Ambient",         "tempo": 68.9,  "energy": 0.16, "danceability": 0.28, "valence": 0.22, "acousticness": 0.79, "instrumentalness": 0.91 },
+    { "title": "Dusty Mae - Neon Rodeo",          "genre": "Country",         "tempo": 123.6, "energy": 0.73, "danceability": 0.71, "valence": 0.64, "acousticness": 0.19, "instrumentalness": 0.02 },
+    { "title": "Lúa Canela - Fuego Suave",        "genre": "Musica Mexicana", "tempo": 115.6, "energy": 0.69, "danceability": 0.73, "valence": 0.56, "acousticness": 0.24, "instrumentalness": 0.04 }
+  ]
+}
